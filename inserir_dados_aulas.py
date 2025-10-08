@@ -4,7 +4,7 @@ from pymongo.errors import ConnectionFailure, OperationFailure
 import os
 
 # --- 1. Sua String de Conexão ---
-MONGO_URI = "mongodb+srv://isaiasoliveira_db_user:Y8mmelSNCRqrhBtl@clusterisaias.y6ccr4r.mongodb.net/aulasADS?retryWrites=true&w=majority&appName=ClusterIsaias"
+MONGO_URI = "cole aqui "
 
 # --- 2. Nome do Database e da Collection ---
 DATABASE_NAME = "aulasADS"
@@ -137,4 +137,5 @@ def inserir_documentos_alunos_com_fotos():
 
 # --- EXECUTAR ---
 if __name__ == "__main__":
+
     inserir_documentos_alunos_com_fotos()
