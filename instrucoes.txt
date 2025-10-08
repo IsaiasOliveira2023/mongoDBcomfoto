@@ -1,0 +1,10 @@
+comando do terminal
+
+python app.py
+
+
+site 
+
+http://127.0.0.1:5000/
+
+para encerra server control C 
